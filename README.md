@@ -266,3 +266,27 @@ synchronize_assets_to_aws_cloud(
     scaler_path='balanced_scaler.pkl', 
     bucket_name='cox-automotive-fleet-data-ml'
 )
+
+
+# Part 5: Enterprise BI Architecture & Compliance Governance: Partner Incentives
+
+License: MIT Framework: Snowflake Data Warehousing Domain: Cloud Alliance Operations
+
+An enterprise-grade SQL framework and automated data-tiering repository designed to calculate multi-billion dollar partner incentive programs within cloud infrastructure. 
+
+This architecture translates complex corporate incentive directives into defensible, automated warehouse-level logic—eliminating data leaks, compliance failures, and manual spreadsheet dependencies.
+
+## 🚀 1. The Operational Risk Profile
+Managing global partner incentives via ad-hoc local tools poses significant corporate governance challenges. Left unmonitored, manual calculations lead to financial distribution errors, audit failures, and operational delays in partner lifecycle tracking.
+
+[ Raw Ledger Transactions ] ➔ [ Window Function Analysis ] ➔ [ Conditional Logic Engine ] ➔ [ Auditable Incentive Rebates ]
+
+### 🔍 Systemic Guardrails and Compliance Defenses
+* **Revenue Leakage Remediation (The Over-Payout Vector):** Built dynamic qualification gates requiring concurrent verification across financial contribution (GCP spend) and technical capabilites (certified cloud engineers). This ensures under-qualified alliance members are systematically barred from premium rebate distributions.
+* **Algorithmic Consistency Control:** Leveraged Snowflake’s global metadata caching and decoupled compute models to decouple resource-intensive `DENSE_RANK()` window functions from user-facing business intelligence tools.
+
+## 🛠 2. Structural Lineage & Data Strategy
+The warehouse script enforces automated governance right at the storage tier before data reaches downstream dashboard environments:
+1. **Automated Null Containment:** Deployed `NVL()` functions to intercept incomplete global financial ledger records, protecting downstream computation blocks from breaking on missing metrics.
+2. **Growth Trajectory Extraction:** Engineered an embedded conditional calculator to track Quarter-over-Quarter (QoQ) expansion vectors, isolating business health from flat baseline metrics.
+3. **Decoupled BI Performance Optimization:** Computed complex tier classifications (`PLATINUM`, `GOLD`, `SILVER`) and financial multiplier rebate values natively inside the warehouse. This yields high-resolution flat structures optimized for near-instant rendering in downstream enterprise dashboards.
