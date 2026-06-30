@@ -290,3 +290,21 @@ The warehouse script enforces automated governance right at the storage tier bef
 1. **Automated Null Containment:** Deployed `NVL()` functions to intercept incomplete global financial ledger records, protecting downstream computation blocks from breaking on missing metrics.
 2. **Growth Trajectory Extraction:** Engineered an embedded conditional calculator to track Quarter-over-Quarter (QoQ) expansion vectors, isolating business health from flat baseline metrics.
 3. **Decoupled BI Performance Optimization:** Computed complex tier classifications (`PLATINUM`, `GOLD`, `SILVER`) and financial multiplier rebate values natively inside the warehouse. This yields high-resolution flat structures optimized for near-instant rendering in downstream enterprise dashboards.
+
+
+📊 Initializing YouTube Ads GTM Experimentation Engine...
+
+--- Observed Performance Analytics ---
+Group A (Baseline In-Stream) CTR : 2.5000%
+Group B (New YouTube Shorts) CTR : 2.8000%
+Observed Metric Revenue Lift     : +0.3000%
+
+--- Hypothesis Test Statistical Execution ---
+Computed Z-Score Statistic : 3.0188
+Calculated P-Value         : 0.001269
+
+--- Executive GTM Strategy Recommendation ---
+🎯 STRATEGIC VERDICT: REJECT THE NULL HYPOTHESIS.
+Confidence Level    : 95% Statistically Verified.
+Operational Action  : The lift is highly significant and NOT due to random variance.
+GTM Directive       : Approve full-scale commercialization of the YouTube Shorts format globally.
